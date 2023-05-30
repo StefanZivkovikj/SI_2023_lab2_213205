@@ -5,7 +5,8 @@
 
 Control Flow Graph (Бр. се редовите во кодот)
 
-![CFG-Stefan Zivkovic 213205](https://github.com/StefanZivkovikj/SI_2023_lab2_213205/assets/130160432/a6227008-5d36-4743-af4f-bcaa114c4b20)
+![CFG-Stefan Zivkovic 213205](https://github.com/StefanZivkovikj/SI_2023_lab2_213205/assets/130160432/3e07fbe3-b44a-4b78-aa72-2e96f097b2ed)
+
 
 Цикломатска комплексност
 
